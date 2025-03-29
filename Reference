@@ -1,0 +1,17 @@
+Reference
+[1] Ravasz, Erzsébet, et al. "Hierarchical organization of modularity in metabolic networks." science 297.5586 (2002): 1551-1555.
+[2] Clauset, Aaron, Mark EJ Newman, and Cristopher Moore. "Finding community structure in very large networks." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 70.6 (2004): 066111.
+[3] Cosentino Lagomarsino, Marco, et al. "Hierarchy and feedback in the evolution of the Escherichia coli transcription network." Proceedings of the National Academy of Sciences 104.13 (2007): 5516-5520.
+[4] Ryan, Colm J., et al. "Hierarchical modularity and the evolution of genetic interactomes across species." Molecular cell 46.5 (2012): 691-704.
+[5] Chen, Fengjiao, and Kan Li. "Detecting hierarchical structure of community members in social networks." Knowledge-based systems 87 (2015): 3-15.
+[6] Radicchi, Filippo, et al. "Defining and identifying communities in networks." Proceedings of the national academy of sciences 101.9 (2004): 2658-2663.
+[7] Meunier, David, Renaud Lambiotte, and Edward T. Bullmore. "Modular and hierarchically modular organization of brain networks." Frontiers in neuroscience 4 (2010): 200.
+[8] Barabási, Albert-László, Erzsébet Ravasz, and Zoltán Oltvai. "Hierarchical organization of modularity in complex networks." Statistical mechanics of complex networks. Berlin, Heidelberg: Springer Berlin Heidelberg, 2003. 46-65.
+[9] Zheng, Xin, et al. "Graph neural networks for graphs with heterophily: A survey." arXiv preprint arXiv:2202.07082 (2022).
+[10] Hamilton, Will, Zhitao Ying, and Jure Leskovec. "Inductive representation learning on large graphs." Advances in neural information processing systems 30 (2017).
+[11] Zhang, Si, et al. "Graph convolutional networks: a comprehensive review." Computational Social Networks 6.1 (2019): 1-23.
+[12] Ou, Mingdong, et al. "Asymmetric transitivity preserving graph embedding." Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. 2016.
+[13] Zhu, Shijie, et al. "Adversarial directed graph embedding." Proceedings of the AAAI conference on artificial intelligence. Vol. 35. No. 5. 2021.
+[14] Allard, Antoine, M. Ángeles Serrano, and Marián Boguñá. "Geometric description of clustering in directed networks." Nature Physics 20.1 (2024): 150-156.
+[15] Krioukov, Dmitri, et al. "Curvature and temperature of complex networks." Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 80.3 (2009): 035101.
+[16] Jankowski, Robert, et al. "The D-Mercator method for the multidimensional hyperbolic embedding of real networks." Nature Communications 14.1 (2023): 7585.
